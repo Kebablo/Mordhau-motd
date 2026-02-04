@@ -9,7 +9,6 @@
 - **Official?** No  
 - **Game Modes:** Invasion / Frontline  
 - **Bots:** Auto-spawn to balance low pop (controlled via Discord and Kebabot)  
-- **Max Bots:** 60 (don't ask for more, it's already clown world)
 
 ## How to Use Kebaot:
 Kebabot lives in global chat. Say his name + what you want.
