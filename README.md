@@ -11,7 +11,7 @@
 - **Bots:** Auto-spawn to balance low pop (controlled via Discord and Kebabot)  
 - **Max Bots:** 60 (don't ask for more, it's already clown world)
 
-## How to Use Kebabot (the toxic chat gremlin)
+## How to Use Kebaot:
 Kebabot lives in global chat. Say his name + what you want.
 
 **Basic rules (he has manners issues):**
@@ -19,7 +19,7 @@ Kebabot lives in global chat. Say his name + what you want.
   → Good: "Kebabot please add 5 bots to the blue team" or "pls remove 10 bots"  
   → Bad: "kebabot add bots you fuck" → gets mogged, no bots
 
-**What he can do (if you say please):**
+**What he can do:**
 - `kebabbot pls add 5 bots` → spawns 5 bots  
 - `kebabbot pls add 10 bots blue team` → team 1 (blue)  
 - `kebabbot pls remove all bots` / `clear bots` → yeets everything  
@@ -27,7 +27,7 @@ Kebabot lives in global chat. Say his name + what you want.
 - `kebabbot pls team 0` / `team 1` / `both` → changes bot team  
 
 **Pro tips:**
-- He **requires** "pls", "please", etc. No manners = no service  
+- No manners = no service  
 - Insult him? Expect negative aura + L + ratio in chat  
 - Want full control? Join Discord and ask Kebablo Escobar for the Discord bot role → buttons & toggles there
 - https://discord.gg/hzpA8UwZMj
