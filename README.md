@@ -30,6 +30,7 @@ Kebabot lives in global chat. Say his name + what you want.
 - He **requires** "pls", "please", etc. No manners = no service  
 - Insult him? Expect negative aura + L + ratio in chat  
 - Want full control? Join Discord and ask Kebablo Escobar for the Discord bot role → buttons & toggles there
-- To join Discord type !discord 
+- https://discord.gg/hzpA8UwZMj
+- Or type !discord in chat
 
 Enjoy the meat grinder.
