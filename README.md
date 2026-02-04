@@ -2,12 +2,11 @@
 
 **Work in Progress**
 
-##  Server Rules
+## Server Rules
 - No rules
-- Subject to change 
+- Subject to change
 
-##  Server Info
-**Official:** No  
-**Max Players:** 69 (Nice)  
-**Bots:** Controlled From Discord, turn off if we have enough players.
-
+## Server Info
+**Official:** No
+**Game Mode:** Invasion/Frontline. Bots for low player counts.
+**Bots:** Controlled from Discord (Request role from Kebablo to gain access)
